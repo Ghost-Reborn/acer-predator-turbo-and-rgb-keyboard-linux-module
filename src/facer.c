@@ -30,6 +30,7 @@
 #include <linux/cdev.h>
 #include <linux/input/sparse-keymap.h>
 #include <acpi/video.h>
+#include <linux/uaccess.h>
 
 
 MODULE_AUTHOR("Carlos Corbacho");
